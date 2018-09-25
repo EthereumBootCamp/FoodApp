@@ -1,0 +1,24 @@
+{
+  "name": "foodapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BushraAlabsi/FoodApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BushraAlabsi/FoodApp/issues"
+  },
+  "homepage": "https://github.com/BushraAlabsi/FoodApp#readme",
+    "dependencies": {
+    "ganache-cli": "^6.0.3",
+    "mocha": "^4.1.0",
+    "web3": "1.0.0-beta.26"
+  }
+}
